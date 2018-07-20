@@ -1,0 +1,607 @@
+Performance Review 2017
+Employee Information
+Employee: Rajesh Juvvalapati
+Employee PERNR: 50176035
+Performance Reviewer: Ketan Bhave
+Validity Period: 01.01.2017 to 31.12.2017
+Status: In Process
+Substatus: Year-End Signoff (Employee)
+Additional Employee Data
+Job Name: Associate Consultant
+Preferred Name:
+Country: India
+SBU: FS - SBU
+Local Organization:
+Global ID: 1131802
+N/A:
+Predefined Objectives
+Customer Satisfaction-High Quality deliverables
+Description:
+100% compliance
+Weighting:
+0
+Employee Mid-Year Assessment:
+Quality Delivery helps us to maintain strong relationships with our customers and at the end of the
+day what matters is the Customer Satisfaction.
+I had given the Quality deliverables within the time line.
+Reviewer Mid-Year Assessment:
+You are doing good Job. Keep it up.
+Employee Year-End Assessment:
+I have given the Quality work within the time line.
+Reviewer Year-End Assessment:
+Agreed.
+Customer Satisfaction-Timely delivery
+Description:
+Onsite & Offshore: 99%
+Weighting:
+0
+Employee Mid-Year Assessment:
+Proper time management is needed in every field of life especially when it comes to our Clients.
+I had delivered all the tasks well within delivery time.
+Reviewer Mid-Year Assessment:
+You are doing good Job. Keep it up.
+Employee Year-End Assessment:
+Proper time management is needed in every field of life especially when it comes to our Clients.
+20.07.2018 1 of 16
+Performance Review 2017
+I had delivered all the tasks well within delivery time.
+Reviewer Year-End Assessment:
+Agreed.
+Customer Satisfaction
+Description:
+OTACE score
+Weighting:
+0
+Employee Mid-Year Assessment:
+I had delivered all the tasks well within delivery time.
+Reviewer Mid-Year Assessment:
+You are doing good Job. Keep it up.
+Employee Year-End Assessment:
+I had delivered all the tasks well within delivery time.
+Reviewer Year-End Assessment:
+Agreed.
+Financial Results-Utilization %:
+Description:
+Onsite: NA & Offshore: 92%
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have given 95% Billablity to organization.
+Reviewer Mid-Year Assessment:
+You are doing good Job. Keep it up.
+Employee Year-End Assessment:
+I have given 95% Billablity to organization.
+Reviewer Year-End Assessment:
+Agreed.
+Internal Business Process Development-Operation compliance
+Description:
+Onsite: Adhere to Process compliance (SPADE, ACE, Timesheets etc.) & Offshore: 100%
+Weighting:
+0
+Employee Mid-Year Assessment:
+I followed 100 % each and every Process compliance as well manner way in this organization.
+Reviewer Mid-Year Assessment:
+You are doing good Job. Follow all the documentation strategies and implement all the documents on
+time.
+Employee Year-End Assessment:
+I followed 100 % each and every Process compliance as well manner way in this organization.
+Reviewer Year-End Assessment:
+Agreed.
+Learning & Growth-Training hours received
+Description:
+Onsite & Offshore: 80
+20.07.2018 2 of 16
+Performance Review 2017
+Weighting:
+0
+Employee Mid-Year Assessment:
+I had completed all the mandatory training which had required and there is no escalation received on
+Project acceptances, role and behavior.
+Reviewer Mid-Year Assessment:
+You are doing good Job. Keep it up.
+Employee Year-End Assessment:
+I had completed all the mandatory training which had required and there is no escalation received on
+Project acceptances, role and behavior.
+Reviewer Year-End Assessment:
+Agreed.
+Learning & Growth-Certifications
+Description:
+Onsite & Offshore: 1 (Certification relating to Cloud or Cloud Automation)
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have had a very cooperative relationship with my project mates. My supervisor has supported me in
+every way possible. He has listened to my suggestions also and has guide me throughout.
+I have participated in two trainings - Mastering CI and Amazon Webservices required for project
+enhancement in future.
+I have succeesfully passed the assesment for Mastering CI and Amazon Webservices with 85%.
+Reviewer Mid-Year Assessment:
+You are doing good Job. Start nominating your self in future nova technologies and do a certification
+in one of them.
+Employee Year-End Assessment:
+I have had a very cooperative relationship with my project mates. My supervisor has supported me in
+every way possible. He has listened to my suggestions also and has guide me throughout.
+I have participated in two trainings - Mastering CI and Amazon Webservices required for project
+enhancement in future.
+I have succeesfully passed the assesment for Mastering CI and Amazon Webservices with 85%.
+Reviewer Year-End Assessment:
+Yes, he attended several sessions conducted by L&D.
+Practice Contribution-Knowledge Management:
+Description:
+Onsite: & Offshore: Showcase usage of best practices/assets
+Weighting:
+0
+Employee Mid-Year Assessment:
+I utilised my time by getting proficient in my domain knowledge.I also worked to gain professional
+knowledge by attending learning activities.
+Reviewer Mid-Year Assessment:
+You are doing good Job. Keep it up.
+Employee Year-End Assessment:
+I utilised my time by getting proficient in my domain knowledge.I also worked to gain professional
+knowledge by attending learning activities.
+Reviewer Year-End Assessment:
+20.07.2018 3 of 16
+Performance Review 2017
+Agreed with the appraise but there is a scope of improvement.
+Individual Objectives
+High Quality Deliverables
+Description:
+Parameters
+HLD Preparation, DTD Preparation, UTP preparation, Coding, Testing
+Succeeds
+1. Successful preparation of HLD/DTD/UTP as per the DFS standards with maximum 2 review
+comments/ findings of Level 1 for project.
+2. Self review is done appropriately
+3. 100% Coding completed on time and as per the Organization standards with maximum 2 review
+comments// findings of Level 1 for project.
+4. 100% Testing completed on time and zero defects/issues reported after deployment to Production.
+Exceeds
+1. Successful preparation of HLD/DTD/UTP as per the DFS standards with maximum1 review
+comments/ findings for project.
+2. Self review is done appropriately.
+3. 100% Coding completed on time and as per the Organization standards with maximum 1 review
+comment/ findingss for project.
+4. 100% Testing completed on time and zero defects/issues reported after deployment to Production.
+Excels
+1. Successful preparation of HLD/DTD/UTP as per the DFS standards with zero review comments/
+findings for project.
+2. Self review is done appropriately.
+3. 100% Coding completed on time and as per the Organization standards with Zero review
+comments/ findings for project.
+4. 100% Testing completed on time and Zero defects/issues reported after deployment to Production.
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have done 100% Coding and Testing completed on time.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have done 100% Coding and Testing completed on time.
+Reviewer Year-End Assessment:
+Agreed with the appraise.
+20.07.2018 4 of 16
+Performance Review 2017
+Timely Delivery
+Description:
+Parameters
+HLD Preparation, DTD preparation, UTP Preparation, Coding, Testing, WSR Inputs
+1. All Deliverables should be completed within the defined timeline.
+2. Zero instances of Project/Development activities getting delayed.
+3. Zero instances of delays reported in the following deliverables - HLD, DTD, UTP, Code Review,
+Code Completion, UTR
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have provided all the Analysis of issues and resolution of tickets as per defined SLAs.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have provided all the Analysis of issues and resolution of tickets as per defined SLAs.
+Reviewer Year-End Assessment:
+Agreed.
+Customer Satisfaction
+Description:
+Appreciation from Client team/Client Manager
+Succeeds
+No Client complaints
+Exceeds
+No Client complaints and at least 1 appreciations from Client team/ Client Manager in written form
+Excels
+No Client complaints and more than one appreciations from Client team/ Client Manager in written
+form
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have completed 100% on time and as per the Organization standards with Zero review comments
+for project.
+The testing got completed and Zero defects/issues reported after deployment.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have completed 100% on time and as per the Organization standards with Zero review comments
+for project.
+The testing got completed and Zero defects/issues reported after deployment.
+Reviewer Year-End Assessment:
+Agreed.
+20.07.2018 5 of 16
+Performance Review 2017
+Timesheets
+Description:
+Zero defaults in DFS Clarity and Smart Track timesheet(As Applicable) submission by Friday evening.
+Any vacation timesheet need to be filled in advance.
+No complaints from client manager on timesheets.
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have submited DFS Clarity with in the time lines.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have submited DFS Clarity with in the time lines.
+Reviewer Year-End Assessment:
+Agreed.
+Communication
+Description:
+Parameters
+Handle Onsite/Client calls, Timely response to Onsite mails.
+Succeeds
+Not more than 3 instances of communication issues should be reported.
+Exceeds
+Not more than 1 instances of communication issues should be reported.
+Excels
+Zero instances of communication issues should be reported.
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have responded on time to Onsite mails/Onsite calls.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have responded on time to Onsite mails/Onsite calls.
+Reviewer Year-End Assessment:
+He is good in communication but needs to be improved in telephonic skills.
+20.07.2018 6 of 16
+Performance Review 2017
+Time Entry
+Description:
+100% Timesheet Compliance. Zero non-compliance for missing timesheet.
+Weighting:
+0
+Employee Mid-Year Assessment:
+I submited all the Timesheets with in the time lines.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I submited all the Timesheets with in the time lines.
+Reviewer Year-End Assessment:
+Agreed.
+Unplanned Leaves
+Description:
+Not more than 4 Unplanned leave in a year (1 per quarter).
+All leaves should be filled appropriately via LMS. There should be zero reminder for adherence.
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have filled all leaves appropriately via LMS. There is zero reminder for adherence.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have filled all leaves via LMS. I have followed or given the 100% Compliance or LMS rules.
+Reviewer Year-End Assessment:
+Agreed.
+Automation Initiaive
+Description:
+Participate and work on initiaves to achive higher Automation Index for team.
+Note: Organization target is 49.5% effort reduction by Automation
+Weighting:
+0
+Employee Mid-Year Assessment:
+I Participated and worked on initiaves to achive higher Automation Index for team.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I Participated and worked on initiaves to achive higher Automation Index for team.
+Reviewer Year-End Assessment:
+Agreed with the appraise but there is a scope of improvement. Appraise should focus more on
+process improvement ideas.
+20.07.2018 7 of 16
+Performance Review 2017
+Process Compliance
+Description:
+Information Security, Ethics and Professional Conduct
+1. No violations of Discover email and information security policies
+2. No violations of Capgemini security policies
+3. No violations of Capgemini professional conduct rules
+4. Ensure data captured for weekly, monthly reports/metrics are 100% accurate.
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have always abide by the Capgemini Information Sequrity, Ethics and Professional conduct.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have followed or given the 100% Compliance to Engagement/Organizational/ Local and Group
+Polices/ Standards /Processes/core values.
+Reviewer Year-End Assessment:
+Agreed.
+Metric Sheet
+Description:
+Gain Knowledge about Metric Sheet and its relevance
+Submit Metric Sheet duely completed and on time for team-participate in its creation.
+- Zero issues in completed Metric sheet
+Weighting:
+0
+Employee Mid-Year Assessment:
+NA
+Reviewer Mid-Year Assessment:
+NA
+Employee Year-End Assessment:
+NA
+Reviewer Year-End Assessment:
+NA
+20.07.2018 8 of 16
+Performance Review 2017
+Empulse Compliance
+Description:
+Achive 85-90% Empulse compliance as per Company standards
+Note:- This related to attendance and Leaves
+Weighting:
+0
+Employee Mid-Year Assessment:
+I followed or given the 95% Empulse Compliance as per Company standards.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have followed or given the 95% Empulse Compliance as per Company standards.
+One Team
+Reviewer Year-End Assessment:
+Agreed.
+One Team Attitude
+Description:
+1. 0 concerns / issues from team members, colleagues, Supervisors
+2. 100% Participation in team building activities / team meetings / WSR
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have given 100% Participation in team building activities / team meetings / WSR.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have given 100% Participation in team building activities / team meetings / WSR.
+Workforce
+Reviewer Year-End Assessment:
+Agreed.
+20.07.2018 9 of 16
+Performance Review 2017
+Workforce transformation
+Description:
+Learning - Training
+Zero defaults for mandatory training. Note that this will supercede the Predefined Organization Goal,
+if any
+- All mandatory trainings introduced by Organization.
+- All applicable trainings introduced by DFS Management, especially related to BT2020 stack.
+- No reminders to Supervisors for due/uncompleted trainings
+- No instance of 'registering-enrolling for training and later not attending it'.
+- One Certification in technology stack given in BT2020, would be nice to have
+Weighting:
+0
+Employee Mid-Year Assessment:
+I had completed all the mandatory training which are introduced by DFS Management and there is
+no escalation received on
+Project acceptances, role and behavior .
+Zero reminders from Supervisors for due/uncompleted trainings
+Zero instance of 'registering-enrolling for training and later not attending it'.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+- I had completed all the mandatory training which are introduced by DFS Management and there is
+no escalation received on Project acceptances, role and behavior .
+- Zero reminders from Supervisors for due/uncompleted training's.
+- Zero instance of 'registering-enrolling for training and later not attending it'.
+Reviewer Year-End Assessment:
+Agreed. However no certifications this year. Need to take certification .
+Share knowledge with colleagues
+Description:
+Parameters
+Work towards building business & technical knowledge repository, Active participation in KT sessions
+Succeeds
+At least 1 instances at team level.
+Exceeds
+At least 2 instances at team level.
+Excels
+At least 2 instances at team level & 1 at Cards BU level.
+Weighting:
+0
+Employee Mid-Year Assessment:
+I have given KT to my new coleagues in many ocassions(not formally, but in my desk). I am looking
+forward to formally give one.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have given/active participation 100% in KT sessions
+Reviewer Year-End Assessment:
+Agreed.
+20.07.2018 10 of 16
+Performance Review 2017
+Organizational activities
+Description:
+Practice / BU / L&C contributions
+1. Contribution to KM portal/Genesis
+2. Participate in FLP batches as Mentor / trainer
+Weighting:
+0
+Employee Mid-Year Assessment:
+I haven't facilitate any FLP sessions till now. But looking forward to it.
+Reviewer Mid-Year Assessment:
+OK
+Employee Year-End Assessment:
+I haven't facilitate any FLP sessions till now. But looking forward to it.
+Reviewer Year-End Assessment:
+Start giving session to FLP batches.
+Financial KPI's
+Utilization
+Description:
+KPI Target:
+KPI Actual:
+Contribution Margin
+Description:
+KPI Target:
+KPI Actual:
+20.07.2018 11 of 16
+Performance Review 2017
+Sales
+Description:
+KPI Target:
+KPI Actual:
+Revenue
+Description:
+KPI Target:
+KPI Actual:
+Late Timesheets
+Description:
+KPI Target:
+KPI Actual:
+Other 1
+Description:
+KPI Target:
+KPI Actual:
+20.07.2018 12 of 16
+Performance Review 2017
+Other 2
+Description:
+KPI Target:
+KPI Actual:
+Other 3
+Description:
+KPI Target:
+KPI Actual:
+Competency & Career Development Plan
+Click here to review and assess the competencies for your current role: "Talent Review Profile".
+In the field below, indicate your training objectives (for competency and career development) for
+current and future potential roles.
+Competency & Career Development Plan
+Description:
+I will improve my competency and develop my skills in Java/ J2EE and if required other technical
+skills which helps to both my career and organization.
+Employee Mid-Year Assessment:
+I have leanrned/Implemented new technologies Spring Batch, Spring Boot and Gradle ,Github ,
+jenkins and cucumber in my project which helps to both my career and organization.
+Reviewer Mid-Year Assessment:
+Good. Keep it Up.
+Employee Year-End Assessment:
+I have learned/Implemented new technologies Spring Batch, Spring Boot and Gradle , GitHub
+,Jenkins and cucumber in my project which helps to both my career and organization.
+Reviewer Year-End Assessment:
+We are trying our best to help you in providing the environment which will ensure your personal as
+well as company growth. As you have already observed we are conducting trainings on different
+integrations technologies which is a step towards the associate personal growth and I hope you
+continue to learn in the future too.
+20.07.2018 13 of 16
+Performance Review 2017
+Career Aspirations
+Description:
+I would like to look myself as an Java Technical Lead in a very near future.
+Employee Mid-Year Assessment:
+I am learning new technologies and framework and working on end to end in my project, so that i can
+get pin to pin of the project , these will help me to design the architecture of any project.
+I am also sharing my knowledge with my colleague and seniors,so that i can learn and enhance my
+skills.
+I am utilizing the opportunity of working in my project, gathering a bunch of knowledge and open to
+accept upcoming challenges to explore the world of technologies.
+Employee Year-End Assessment:
+I am learning new technologies and framework and working on end to end in my project, so that i can
+get pin to pin of the project , these will help me to design the architecture of any project.
+I am also sharing my knowledge with my colleague and seniors,so that i can learn and enhance my
+skills.
+I am utilizing the opportunity of working in my project, gathering a bunch of knowledge and open to
+accept upcoming challenges to explore the world of technologies.
+International Mobility
+Please indicate if you are interested in working on international projects,should the opportunity arise.
+If you are, please indicate if you would be willing to work abroad on either a temporary or permanent
+basis, and the maximum length of assignment you would consider.
+Expressing an International interest will not guarantee an International project.
+Description:
+I really have a strong desire to work on an International project and am ready to go to onsite as per
+business requirement.
+Employee Mid-Year Assessment:
+I really have a strong desire to work on an International project and am ready to go to onsite as per
+business requirement.
+Employee Year-End Assessment:
+I really have a strong desire to work on an International project and am ready to go to onsite as per
+business requirement.
+Overall Mid-Year Assessment
+Your assessment should reflect compliance with our Code of Business Ethics and other Group
+policies, and demonstrate behaviours in line with the Group#s values
+20.07.2018 14 of 16
+Performance Review 2017
+Overall Mid-Year Assessment
+Employee Mid-Year Assessment:
+1. I am working on Issuer Disputes Team in Discover Account.
+2. We have two Services and one application and 16 Batches.Till now I had worked on Gradle
+,Github ,Jenkins and spring Batch migration of batches and services.
+3. I had worked on new enhnacements and difect fixing and prod issues in mt project and
+participated in team-building activities (change ticket installation and PA Environment testing ) and
+given a quality work done .
+4. Overall this six month were very fruitful to me. I have been introduced to J-Unit, Maven, Gradle,
+GitHub and Jenkins. Also I have
+learned about Unix and Oracle database. I hope to work in these technologies in practical ways in the
+time ahead.
+5. I have given the Quality work within the time line. either in the project or in the competency.
+6. I have followed or given the 100% Compliance to Engagement/Organizational/ Local and Group
+Polices/ Standards /Processes/core values.
+7. I have completed all the mandatory trainings which had required and there is no escalation
+receivedon Project acceptances, role and behavior. I have followed each and every compliance and
+ethics rule in a well manner way in this organization.
+8. I have adhere to office discipline, policies, processes and guidelines. Constantly demonstrating
+high level of professionalism and flexibility towards to any work assignments.
+Completely interested to work with International Projects and seeking
+Reviewer Mid-Year Assessment:
+Rajesh has been improving gradually. He has picked up new technologies and started delivering. He
+has worked on different new technologies and delivered on time. Off late he has been picking up
+business logic and started contributing in business related changes. However he has to improve his
+communication so that he can communicate clearly and efficiently with onsite. Keep up the good
+work.
+Overall Year-End Assessment
+Your assessment should reflect compliance with our Code of Business Ethics and other Group
+policies, and demonstrate behaviours in line with the Group#s values
+20.07.2018 15 of 16
+Performance Review 2017
+Overall Year-End Assessment
+Employee Year-End Assessment:
+- I am working on Issuer Disputes Team in Discover Account.
+- We have two Services and one application and 16 Batches.Till now I had
+worked on Gradle ,GitHub ,Jenkins and spring Batch,Spring Boot migration of
+batches and services.
+- Also, I had worked on new enhancements and defect fixing and prod issues in
+my project and participated in team-building activities (change ticket installation
+and PA Environment testing ) and given a quality work done .
+- Overall this Year were very fruitful to me. I have been introduced to J-Unit, Maven,
+Gradle, GitHub and Jenkins,Spring Batch ,spring Boot and EJB . Also I have
+learned about Unix and Oracle database. I hope to work in these technologies in
+practical ways in the time ahead.
+- I have given the Quality work within the time line. either in the project or in the
+competency.
+- I have followed or given the 100% Compliance to Engagement/Organizational/
+Local and Group Polices/ Standards /Processes/core values.
+- I have completed all the mandatory training which had required and there is no
+escalation received on Project acceptances, role and behavior. I have followed
+each and every compliance and ethics rule in a well manner way in this
+organization.
+- I have adhere to office discipline, policies, processes and guidelines. Constantly
+demonstrating high level of professionalism and flexibility towards to any work
+assignments.
+Reviewer Year-End Assessment:
+I am very happy with the appraise with his commitment and hard work that he showed during this
+year. He has improved a lot and handled different complex scenarios in the current project . He is
+good with all his deliverables and a good team player.
+Work/Life Balance Discussion Held?:
+Yes
+Appraise is happy with the current project and he doesn't have any grievance in this regard.
+Employee Signoff comments:
+Ratings
+Calibrated Ratings
+Performance Rating:
+3
+Career Track:
+Experience in role:
+20.07.2018 16 of 16
